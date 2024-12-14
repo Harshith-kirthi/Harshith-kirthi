@@ -44,7 +44,7 @@ I'm goal oriented Computer Science graduate with strong foundational knowledge i
 
 ## Education
 - **Bachelor of Technology in Computer Science**<br>
-  Anurag University, Hyderabad, Telangana, India (05/2021)
+  Jawaharlal Nehru Technological University, Hyderabad, Telangana, India (06/2024)
 
 ## Certifications
 - **Salesforce Developer Intern** (Salesforce)
